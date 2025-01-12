@@ -64,7 +64,7 @@ export const AppContextProvider = (props) => {
         }
     }
 
-    // Fucntion to fetch user data
+    // Function to fetch user data
     const fetchUserData = async () => {
         try {
             const token = await getToken()
