@@ -79,7 +79,7 @@ export const JobCategories = [
     "Networking",
     "Management",
     "Marketing",
-    "Cybersecurity",
+    "Cyber Security",
 ]
 
 export const JobLocations = [
@@ -90,7 +90,6 @@ export const JobLocations = [
     "California",
     "Chennai",
     "New York",
-    "Kolkata"
 ]
 
 // Sample data for Manage Jobs Page
